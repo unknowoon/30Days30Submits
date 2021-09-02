@@ -1,7 +1,5 @@
 const cursor = document.querySelector('.cursor');
 
-// 6078774048401
-
 // 마우스 무브 이벤트는 모든 마우스 움직임 좌표를 반환한다.
 // AddEventListener function for mousemove is return all moving position of mouse
 // e.pageX and e.pageY
